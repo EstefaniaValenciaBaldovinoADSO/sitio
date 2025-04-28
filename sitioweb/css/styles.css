@@ -1,0 +1,6 @@
+
+
+.carousel-item img {
+    object-fit: cover; /* Asegura que la imagen cubra todo el contenedor */
+    height: 100vh; /* Altura de la imagen al 100% de la pantalla */
+}
